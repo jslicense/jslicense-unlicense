@@ -1,0 +1,14 @@
+{
+  "name": "jslicense-unlicense",
+  "description": "The Unlicense in jslicense format",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (http://kemitchell.com)",
+  "homepage": "https://jslicense.github.io",
+  "keywords": [
+    "Unlicense",
+    "jslicense",
+    "license"
+  ],
+  "license": "Apache-2.0",
+  "repository": "jslicense/jslicense-unlicense"
+}
